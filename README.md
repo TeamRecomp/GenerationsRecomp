@@ -7,7 +7,7 @@ Generations Recompiled is a WIP PC Port version of Sonic Generations (Xbox 360) 
 WIP
 
 # Special Thanks
-[Hedge Dev Team]([https://github.com/hedge-dev](https://github.com/hedge-dev)) - UnleashedRecomp/XenonRecomp/XenosRecomp
+[Hedge Dev Team](https://github.com/hedge-dev) - UnleashedRecomp/XenonRecomp/XenosRecomp
 
 # Tools Used
 [Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp)
